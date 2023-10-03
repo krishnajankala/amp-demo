@@ -1,0 +1,23 @@
+{
+	"changeType": "codeExt",
+	"reference": "customer.zbanktransfers",
+	"namespace": "apps/customer.zbanktransfers/changes/",
+	"projectId": "customer.zbanktransfers",
+	"moduleName": "customer/zbanktransfers/changes/coding/headerExt",
+	"support": {
+		"generator": "rta.service.ControllerExtension",
+		"sapui5Version": "1.118.0"
+	},
+	"originalLanguage": "EN",
+	"layer": "CUSTOMER_BASE",
+	"fileType": "change",
+	"fileName": "id_1696310666250_215_codeExt",
+	"content": {
+		"codeRef": "coding/headerExt.js"
+	},
+	"texts": {},
+	"selector": {
+		"controllerName": "sap.suite.ui.generic.template.ListReport.view.ListReport"
+	},
+	"creation": "2023-10-03T05:24:26.270Z"
+}

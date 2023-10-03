@@ -1,0 +1,11 @@
+{
+  "componentname": "fin.cash.transfercash",
+  "safeMode": false,
+  "appvariant": "zbanktransfers",
+  "layer": "CUSTOMER_BASE",
+  "sourceSystem": "Training",
+  "isOVPApp": false,
+  "isFioriElement": true,
+  "environment": "ABAP",
+  "ui5Version": "1.118.1"
+}

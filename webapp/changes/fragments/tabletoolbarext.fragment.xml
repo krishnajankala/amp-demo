@@ -1,0 +1,6 @@
+<!-- Use stable and unique IDs!-->
+<core:FragmentDefinition xmlns:core='sap.ui.core' xmlns='sap.m'>
+	<!--  add your xml here -->
+	<Button id="submit" text="Header Extension Button" 
+		press=".extension.customer.zbanktransfers.headerExt.onSubmit"/>
+</core:FragmentDefinition>

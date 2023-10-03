@@ -1,0 +1,26 @@
+{
+	"changeType": "hideControl",
+	"reference": "customer.zbanktransfers",
+	"namespace": "apps/customer.zbanktransfers/changes/",
+	"projectId": "customer.zbanktransfers",
+	"packageName": "$TMP",
+	"support": {
+		"generator": "sap.ui.rta.command",
+		"sapui5Version": "1.118.0",
+		"compositeCommand": "id_1696037973990_391_composite",
+		"command": "remove"
+	},
+	"originalLanguage": "EN",
+	"layer": "CUSTOMER_BASE",
+	"fileType": "change",
+	"fileName": "id_1696037973989_390_hideControl",
+	"content": {},
+	"texts": {},
+	"selector": {
+		"id": "fin.cash.transfercash::sap.suite.ui.generic.template.ObjectPage.view.Details::C_MakeBankTransferTP--Q1::PayingBankAccountDescription::GroupElement",
+		"idIsLocal": false
+	},
+	"dependentSelector": {},
+	"jsOnly": false,
+	"creation": "2023-09-30T01:39:34.970Z"
+}
